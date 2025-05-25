@@ -1,0 +1,101 @@
+timestamp,package_id,order_date,delivery_date,origin,origin_coordinates,current_location,current_coordinates,delivery_location,delivery_coordinates,perishable,temperature_celsius,temperature_issue,status
+2025-05-22 14:28:58,PKG001,2025-05-20,2025-05-24,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Laurel, Batangas","14.050, 120.900",Yes,10.53,Exceeded,Awaiting Pickup
+2025-05-22 14:30:58,PKG002,2025-05-18,2025-05-24,"Batangas City, Batangas","13.750, 121.050","Magallanes, Sorsogon","13.770531,121.064295","Magallanes, Sorsogon","12.833, 123.850",No,25.22,N/A,In Transit
+2025-05-22 14:31:58,PKG003,2025-05-18,2025-05-23,"Cebu City, Cebu","10.32, 123.75","Salay, Misamis Oriental","10.330072,123.745571","Salay, Misamis Oriental","8.867, 124.800",No,18.08,N/A,Awaiting Pickup
+2025-05-22 14:56:58,PKG004,2025-05-19,2025-05-28,"Cebu City, Cebu","10.32, 123.75","Cebu City, Cebu","10.32,123.75","Santa Cruz, Zambales","15.767, 119.917",No,15.12,N/A,Awaiting Pickup
+2025-05-22 15:09:58,PKG005,2025-05-19,2025-05-22,"Iloilo City, Iloilo","11, 122.67","Iloilo City, Iloilo","11.0,122.67","Binalbagan, Negros Occidental","10.200, 122.867",Yes,7.44,Exceeded,Awaiting Pickup
+2025-05-22 15:11:58,PKG006,2025-05-20,2025-05-29,"Cebu City, Cebu","10.32, 123.75","Salcedo, Ilocos Sur","10.30311,123.754307","Salcedo, Ilocos Sur","17.150, 120.533",Yes,9.28,Exceeded,Awaiting Pickup
+2025-05-22 15:24:58,PKG007,2025-05-20,2025-05-29,"Batangas City, Batangas","13.750, 121.050","Pandag, Maguindanao","6.78333, 124.80000","Pandag, Maguindanao","6.78333, 124.80000",Yes,6.06,Normal,Delivered
+2025-05-22 15:33:58,PKG008,2025-05-18,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Polomolok, South Cotabato","13.739551,121.08499","Polomolok, South Cotabato","6.217, 125.067",Yes,9.81,Exceeded,In Transit
+2025-05-22 16:03:58,PKG009,2025-05-19,2025-05-26,"Iloilo City, Iloilo","11, 122.67","Olongapo City, Zambales","10.959657,122.683845","Olongapo City, Zambales","14.83, 120.28",No,12.44,N/A,In Transit
+2025-05-22 16:13:58,PKG010,2025-05-18,2025-05-28,"Iloilo City, Iloilo","11, 122.67","Mangaldan, Pangasinan","10.975828,122.709461","Mangaldan, Pangasinan","16.067, 120.400",No,17.44,N/A,In Transit
+2025-05-22 16:17:58,PKG011,2025-05-19,2025-05-24,"Cebu City, Cebu","10.32, 123.75","Columbio, Sultan Kudarat","10.305732,123.75277","Columbio, Sultan Kudarat","6.700, 124.933",Yes,2.6,Normal,Awaiting Pickup
+2025-05-22 16:18:58,PKG012,2025-05-20,2025-05-28,"Cebu City, Cebu","10.32, 123.75","Bagabag, Nueva Vizcaya","10.299595,123.736696","Bagabag, Nueva Vizcaya","16.600, 121.267",No,21.09,N/A,Awaiting Pickup
+2025-05-22 16:18:58,PKG013,2025-05-20,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Romblon, Romblon","10.311933,123.753922","Romblon, Romblon","12.567, 122.267",No,21.43,N/A,Awaiting Pickup
+2025-05-22 16:26:58,PKG014,2025-05-18,2025-05-23,"Iloilo City, Iloilo","11, 122.67","San Simon, Pampanga","10.986086,122.674494","San Simon, Pampanga","14.99306, 120.77694",No,17.92,N/A,Awaiting Pickup
+2025-05-22 17:20:58,PKG015,2025-05-19,2025-05-26,"Cabuyao, Laguna","14.27833, 121.12472","San Lorenzo, Guimaras","10.65,122.717","San Lorenzo, Guimaras","10.650, 122.717",No,15.42,N/A,Awaiting Pickup
+2025-05-22 17:23:58,PKG016,2025-05-18,2025-05-23,"Cabuyao, Laguna","14.27833, 121.12472","Bagulin, La Union","16.60833, 120.43944","Bagulin, La Union","16.60833, 120.43944",Yes,11.96,Exceeded,Delivered
+2025-05-22 17:32:58,PKG017,2025-05-19,2025-05-27,"Cebu City, Cebu","10.32, 123.75","San Jose City, Nueva Ecija","10.318973,123.767993","San Jose City, Nueva Ecija","15.783, 121.000",Yes,4.27,Normal,In Transit
+2025-05-22 17:47:58,PKG018,2025-05-20,2025-05-29,"Batangas City, Batangas","13.750, 121.050","Midsalip, Zamboanga del Sur","13.734787,121.036261","Midsalip, Zamboanga del Sur","8.000, 123.267",No,12.06,N/A,Awaiting Pickup
+2025-05-22 18:10:58,PKG019,2025-05-20,2025-05-28,"Iloilo City, Iloilo","11, 122.67","Iloilo City, Iloilo","11.0,122.67","Mahatao, Batanes","20.417, 121.950",Yes,2.39,Normal,Awaiting Pickup
+2025-05-22 18:14:58,PKG020,2025-05-19,2025-05-29,"Cabuyao, Laguna","14.27833, 121.12472","Mulondo, Lanao del Sur","14.282354,121.143829","Mulondo, Lanao del Sur","7.933, 124.383",Yes,5.71,Normal,Awaiting Pickup
+2025-05-22 18:23:58,PKG021,2025-05-20,2025-05-23,"Cebu City, Cebu","10.32, 123.75","Cebu City, Cebu","10.32,123.75","Binalbagan, Negros Occidental","10.200, 122.867",Yes,6.04,Normal,In Transit
+2025-05-22 18:31:58,PKG022,2025-05-18,2025-05-24,"Iloilo City, Iloilo","11, 122.67","Candaba, Pampanga","11.014164,122.676782","Candaba, Pampanga","15.09333, 120.82833",Yes,5.52,Normal,Awaiting Pickup
+2025-05-22 18:48:58,PKG023,2025-05-18,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Madamba, Lanao del Sur","13.735184,121.052879","Madamba, Lanao del Sur","7.883, 124.067",Yes,7.01,Exceeded,Awaiting Pickup
+2025-05-22 18:55:58,PKG024,2025-05-18,2025-05-26,"Iloilo City, Iloilo","11, 122.67","Bangued, Abra","17.600, 120.617","Bangued, Abra","17.600, 120.617",Yes,8.47,Exceeded,Delivered
+2025-05-22 18:59:58,PKG025,2025-05-19,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Guindulman, Bohol","10.336959,123.769903","Guindulman, Bohol","9.77, 124.48",Yes,7.02,Exceeded,In Transit
+2025-05-22 19:03:58,PKG026,2025-05-19,2025-05-23,"Cebu City, Cebu","10.32, 123.75","Liloan, Cebu","10.329182,123.745103","Liloan, Cebu","10.4, 123.98",Yes,10.98,Exceeded,In Transit
+2025-05-22 19:14:58,PKG027,2025-05-18,2025-05-25,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Gumaca, Quezon","13.917, 122.100",Yes,9.91,Exceeded,Awaiting Pickup
+2025-05-22 19:18:58,PKG028,2025-05-19,2025-05-28,"Batangas City, Batangas","13.750, 121.050","Datu Paglas, Maguindanao","13.755165,121.044038","Datu Paglas, Maguindanao","6.76694, 124.85000",Yes,9.2,Exceeded,Awaiting Pickup
+2025-05-22 19:18:58,PKG029,2025-05-18,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Sultan Mastura, Maguindanao","7.283, 124.300",Yes,11.44,Exceeded,Awaiting Pickup
+2025-05-22 19:27:58,PKG030,2025-05-19,2025-05-26,"Iloilo City, Iloilo","11, 122.67","Jaro, Leyte","11.183,124.783","Jaro, Leyte","11.183, 124.783",Yes,10.85,Exceeded,Awaiting Pickup
+2025-05-22 19:56:58,PKG031,2025-05-19,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Dulag, Leyte","10.95,125.033","Dulag, Leyte","10.950, 125.033",No,25.0,N/A,Awaiting Pickup
+2025-05-22 20:01:58,PKG032,2025-05-20,2025-05-29,"Cabuyao, Laguna","14.27833, 121.12472","Catarman, Camiguin","14.281355,121.13958","Catarman, Camiguin","9.133, 124.683",No,10.32,N/A,Awaiting Pickup
+2025-05-22 20:03:58,PKG033,2025-05-19,2025-05-26,"Iloilo City, Iloilo","11, 122.67","Lian, Batangas","11.022044,122.688551","Lian, Batangas","14.033, 120.650",Yes,6.56,Normal,In Transit
+2025-05-22 20:12:58,PKG034,2025-05-20,2025-05-29,"Cabuyao, Laguna","14.27833, 121.12472","Baungon, Bukidnon","14.275756,121.123421","Baungon, Bukidnon","8.250, 124.717",Yes,8.84,Exceeded,In Transit
+2025-05-22 20:29:58,PKG035,2025-05-18,2025-05-25,"Batangas City, Batangas","13.750, 121.050","Dipaculao, Aurora","15.983,121.633","Dipaculao, Aurora","15.983, 121.633",Yes,4.2,Normal,Delivered
+2025-05-22 20:54:58,PKG036,2025-05-20,2025-05-27,"Cabuyao, Laguna","14.27833, 121.12472","Baggao, Cagayan","17.917, 121.967","Baggao, Cagayan","17.917, 121.967",No,17.16,N/A,Delivered
+2025-05-22 20:55:58,PKG037,2025-05-20,2025-05-25,"Iloilo City, Iloilo","11, 122.67","Palompon, Leyte","11.05,124.383","Palompon, Leyte","11.050, 124.383",Yes,8.34,Exceeded,Delivered
+2025-05-22 21:26:58,PKG038,2025-05-20,2025-05-30,"Cebu City, Cebu","10.32, 123.75","Magalang, Pampanga","10.318325,123.736579","Magalang, Pampanga","15.217, 120.667",No,24.38,N/A,In Transit
+2025-05-22 21:58:58,PKG039,2025-05-18,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Victoria, Tarlac","10.316742,123.759411","Victoria, Tarlac","15.57806, 120.68194",Yes,4.16,Normal,Awaiting Pickup
+2025-05-22 22:09:58,PKG040,2025-05-18,2025-05-23,"Batangas City, Batangas","13.750, 121.050","Baggao, Cagayan","13.768516,121.065233","Baggao, Cagayan","17.917, 121.967",Yes,3.32,Normal,Awaiting Pickup
+2025-05-22 22:16:58,PKG041,2025-05-18,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Taytay, Rizal","14.567,121.133","Taytay, Rizal","14.567, 121.133",Yes,8.94,Exceeded,Awaiting Pickup
+2025-05-22 23:22:58,PKG042,2025-05-19,2025-05-23,"Iloilo City, Iloilo","11, 122.67","Balasan, Iloilo","10.996225,122.652534","Balasan, Iloilo","11.467, 123.083",Yes,2.36,Normal,In Transit
+2025-05-22 23:26:58,PKG043,2025-05-18,2025-05-21,"Batangas City, Batangas","13.750, 121.050","Naujan, Oriental Mindoro","13.778273,121.063258","Naujan, Oriental Mindoro","13.317, 121.300",Yes,2.69,Normal,Awaiting Pickup
+2025-05-22 23:27:58,PKG044,2025-05-20,2025-05-23,"Batangas City, Batangas","13.750, 121.050","Pasay, Metro Manila","14.55, 121","Pasay, Metro Manila","14.55, 121",Yes,7.13,Exceeded,Delivered
+2025-05-22 23:28:58,PKG045,2025-05-20,2025-05-26,"Batangas City, Batangas","13.750, 121.050","Catmon, Cebu","10.72, 124","Catmon, Cebu","10.72, 124",No,23.85,N/A,Delivered
+2025-05-22 23:31:58,PKG046,2025-05-19,2025-05-27,"Cebu City, Cebu","10.32, 123.75","Bantay, Ilocos Sur","10.314595,123.786271","Bantay, Ilocos Sur","17.583, 120.383",Yes,5.63,Normal,In Transit
+2025-05-23 00:41:58,PKG047,2025-05-19,2025-05-24,"Iloilo City, Iloilo","11, 122.67","Gamay, Northern Samar","11.007603,122.667086","Gamay, Northern Samar","12.383, 125.300",No,21.08,N/A,Awaiting Pickup
+2025-05-23 00:56:58,PKG048,2025-05-19,2025-05-28,"Batangas City, Batangas","13.750, 121.050","Lianga, Surigao del Sur","8.633,126.1","Lianga, Surigao del Sur","8.633, 126.100",Yes,2.22,Normal,Awaiting Pickup
+2025-05-23 01:00:58,PKG049,2025-05-19,2025-05-24,"Cebu City, Cebu","10.32, 123.75","Midsalip, Zamboanga del Sur","10.281919,123.750543","Midsalip, Zamboanga del Sur","8.000, 123.267",Yes,9.52,Exceeded,In Transit
+2025-05-23 01:22:58,PKG050,2025-05-20,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Naval, Biliran","10.314814,123.738026","Naval, Biliran","11.583, 124.450",No,13.54,N/A,In Transit
+2025-05-23 01:43:58,PKG051,2025-05-20,2025-05-27,"Cebu City, Cebu","10.32, 123.75","Tantangan, South Cotabato","10.319819,123.749871","Tantangan, South Cotabato","6.617, 124.750",Yes,2.09,Normal,Awaiting Pickup
+2025-05-23 01:44:58,PKG052,2025-05-20,2025-05-26,"Batangas City, Batangas","13.750, 121.050","Bayombong, Nueva Vizcaya","16.483,121.15","Bayombong, Nueva Vizcaya","16.483, 121.150",No,21.08,N/A,Awaiting Pickup
+2025-05-23 02:18:58,PKG053,2025-05-20,2025-05-27,"Cebu City, Cebu","10.32, 123.75","Banga, South Cotabato","10.347434,123.742002","Banga, South Cotabato","6.300, 124.783",Yes,10.37,Exceeded,Awaiting Pickup
+2025-05-23 02:24:58,PKG054,2025-05-19,2025-05-24,"Batangas City, Batangas","13.750, 121.050","Unisan, Quezon","13.752615,121.057002","Unisan, Quezon","13.833, 121.983",No,15.72,N/A,In Transit
+2025-05-23 02:31:58,PKG055,2025-05-18,2025-05-23,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","San Fernando, Masbate","12.483, 123.750",Yes,4.34,Normal,In Transit
+2025-05-23 02:35:58,PKG056,2025-05-19,2025-05-21,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Cuenca, Batangas","13.91667, 121.04472",Yes,2.43,Normal,Delayed
+2025-05-23 03:04:58,PKG057,2025-05-20,2025-05-24,"Cabuyao, Laguna","14.27833, 121.12472","Nasugbu, Batangas","14.262998,121.135612","Nasugbu, Batangas","14.067, 120.633",Yes,5.53,Normal,Awaiting Pickup
+2025-05-23 03:12:58,PKG058,2025-05-18,2025-05-23,"Cabuyao, Laguna","14.27833, 121.12472","Pulupandan, Negros Occidental","14.273585,121.122522","Pulupandan, Negros Occidental","10.517, 122.800",Yes,8.53,Exceeded,Awaiting Pickup
+2025-05-23 03:20:58,PKG059,2025-05-18,2025-05-21,"Iloilo City, Iloilo","11, 122.67","Manapla, Negros Occidental","10.989329,122.685341","Manapla, Negros Occidental","10.95, 123.12",No,20.64,N/A,Delayed
+2025-05-23 04:16:58,PKG060,2025-05-19,2025-05-29,"Cebu City, Cebu","10.32, 123.75","Cebu City, Cebu","10.32,123.75","Apalit, Pampanga","14.950, 120.767",Yes,11.31,Exceeded,In Transit
+2025-05-23 04:59:58,PKG061,2025-05-20,2025-05-26,"Cebu City, Cebu","10.32, 123.75","Hagonoy, Davao del Sur","10.304656,123.7458","Hagonoy, Davao del Sur","6.683, 125.300",No,16.09,N/A,In Transit
+2025-05-23 05:18:58,PKG062,2025-05-20,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Titay, Zamboanga Sibugay","10.286053,123.76585","Titay, Zamboanga Sibugay","7.850, 122.550",No,13.14,N/A,In Transit
+2025-05-23 05:22:58,PKG063,2025-05-19,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Masiu, Lanao del Sur","7.817, 124.317","Masiu, Lanao del Sur","7.817, 124.317",No,28.08,N/A,Delivered
+2025-05-23 05:22:58,PKG064,2025-05-20,2025-05-28,"Cebu City, Cebu","10.32, 123.75","Kabugao, Apayao","18.017,121.183","Kabugao, Apayao","18.017, 121.183",No,11.77,N/A,Delivered
+2025-05-23 05:50:58,PKG065,2025-05-20,2025-05-25,"Cabuyao, Laguna","14.27833, 121.12472","Torrijos, Marinduque","13.317,122.083","Torrijos, Marinduque","13.317, 122.083",Yes,6.98,Normal,Delivered
+2025-05-23 06:12:58,PKG066,2025-05-20,2025-05-27,"Iloilo City, Iloilo","11, 122.67","Damulog, Bukidnon","11.022005,122.661281","Damulog, Bukidnon","7.483, 124.933",Yes,2.08,Normal,Awaiting Pickup
+2025-05-23 06:21:58,PKG067,2025-05-18,2025-05-24,"Cebu City, Cebu","10.32, 123.75","Pilar, Surigao del Norte","10.315855,123.755173","Pilar, Surigao del Norte","9.867, 126.100",Yes,10.52,Exceeded,In Transit
+2025-05-23 06:38:58,PKG068,2025-05-19,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Siasi, Sulu","5.550, 120.817","Siasi, Sulu","5.550, 120.817",No,11.94,N/A,Delivered
+2025-05-23 06:54:58,PKG069,2025-05-18,2025-05-28,"Cabuyao, Laguna","14.27833, 121.12472","Wao, Lanao del Sur","14.285882,121.129892","Wao, Lanao del Sur","7.683, 124.683",Yes,7.89,Exceeded,In Transit
+2025-05-23 06:56:58,PKG070,2025-05-18,2025-05-23,"Cabuyao, Laguna","14.27833, 121.12472","Virac, Catanduanes","13.583, 124.233","Virac, Catanduanes","13.583, 124.233",No,14.06,N/A,Delivered
+2025-05-23 06:59:58,PKG071,2025-05-20,2025-05-25,"Cabuyao, Laguna","14.27833, 121.12472","Zarraga, Iloilo","14.259274,121.136801","Zarraga, Iloilo","10.817, 122.600",No,19.63,N/A,Awaiting Pickup
+2025-05-23 07:02:58,PKG072,2025-05-19,2025-05-29,"Cebu City, Cebu","10.32, 123.75","Burgos, Ilocos Sur","17.333,120.5","Burgos, Ilocos Sur","17.333, 120.500",No,12.48,N/A,Delivered
+2025-05-23 07:23:58,PKG073,2025-05-18,2025-05-24,"Iloilo City, Iloilo","11, 122.67","Iloilo City, Iloilo","11.0,122.67","Vinzons, Camarines Norte","14.183, 122.900",No,10.55,N/A,In Transit
+2025-05-23 07:28:58,PKG074,2025-05-18,2025-05-23,"Cebu City, Cebu","10.32, 123.75","Clarin, Misamis Occidental","8.200, 123.850","Clarin, Misamis Occidental","8.200, 123.850",No,28.53,N/A,Delivered
+2025-05-23 07:44:58,PKG075,2025-05-18,2025-05-23,"Batangas City, Batangas","13.750, 121.050","Panganiban, Catanduanes","13.742545,121.033376","Panganiban, Catanduanes","13.900, 124.300",Yes,6.74,Normal,In Transit
+2025-05-23 07:52:58,PKG076,2025-05-18,2025-05-25,"Iloilo City, Iloilo","11, 122.67","San Jose, Negros Oriental","11.016216,122.64773","San Jose, Negros Oriental","9.417, 123.233",Yes,6.26,Normal,In Transit
+2025-05-23 08:16:58,PKG077,2025-05-19,2025-05-29,"Cabuyao, Laguna","14.27833, 121.12472","Lumbatan, Lanao del Sur","14.311992,121.141354","Lumbatan, Lanao del Sur","7.783, 124.250",No,23.13,N/A,Awaiting Pickup
+2025-05-23 08:33:58,PKG078,2025-05-18,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Talayan, Maguindanao","6.96667,124.41667","Talayan, Maguindanao","6.96667, 124.41667",Yes,4.89,Normal,Awaiting Pickup
+2025-05-23 08:34:58,PKG079,2025-05-19,2025-05-25,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Sagada, Mountain Province","17.083, 120.900",Yes,5.15,Normal,Awaiting Pickup
+2025-05-23 08:42:58,PKG080,2025-05-18,2025-05-26,"Cabuyao, Laguna","14.27833, 121.12472","Lingig, Surigao del Sur","14.273207,121.142437","Lingig, Surigao del Sur","8.033, 126.417",Yes,7.26,Exceeded,In Transit
+2025-05-23 08:59:58,PKG081,2025-05-20,2025-05-25,"Cebu City, Cebu","10.32, 123.75","New Washington, Aklan","10.300991,123.74736","New Washington, Aklan","11.650, 122.433",No,20.22,N/A,Awaiting Pickup
+2025-05-23 09:30:58,PKG082,2025-05-19,2025-05-29,"Cabuyao, Laguna","14.27833, 121.12472","Surallah, South Cotabato","14.258617,121.114957","Surallah, South Cotabato","6.367, 124.733",Yes,4.79,Normal,In Transit
+2025-05-23 09:33:58,PKG083,2025-05-19,2025-05-28,"Cabuyao, Laguna","14.27833, 121.12472","Sumilao, Bukidnon","14.266428,121.129279","Sumilao, Bukidnon","8.283, 124.950",Yes,4.05,Normal,In Transit
+2025-05-23 09:42:58,PKG084,2025-05-20,2025-05-27,"Iloilo City, Iloilo","11, 122.67","Milagros, Masbate","10.989126,122.631348","Milagros, Masbate","12.233, 123.500",No,21.86,N/A,Awaiting Pickup
+2025-05-23 09:44:58,PKG085,2025-05-20,2025-05-27,"Iloilo City, Iloilo","11, 122.67","Pagsanghan, Samar","11.003887,122.674207","Pagsanghan, Samar","11.967, 124.800",No,19.9,N/A,Awaiting Pickup
+2025-05-23 09:50:58,PKG086,2025-05-20,2025-05-25,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Solsona, Ilocos Norte","18.100, 120.767",No,20.27,N/A,In Transit
+2025-05-23 10:06:58,PKG087,2025-05-18,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Santa Cruz, Davao del Sur","10.283965,123.745923","Santa Cruz, Davao del Sur","6.833, 125.417",No,14.17,N/A,In Transit
+2025-05-23 10:15:58,PKG088,2025-05-19,2025-05-24,"Cebu City, Cebu","10.32, 123.75","Mambusao, Capiz","11.433, 122.600","Mambusao, Capiz","11.433, 122.600",No,27.45,N/A,Delivered
+2025-05-23 10:34:58,PKG089,2025-05-20,2025-05-29,"Batangas City, Batangas","13.750, 121.050","Batangas City, Batangas","13.75,121.05","Balingasag, Misamis Oriental","8.750, 124.783",Yes,6.48,Normal,Awaiting Pickup
+2025-05-23 10:39:58,PKG090,2025-05-20,2025-05-27,"Batangas City, Batangas","13.750, 121.050","San Jose, Romblon","13.765583,121.057764","San Jose, Romblon","12.067, 121.933",Yes,3.26,Normal,Awaiting Pickup
+2025-05-23 10:43:58,PKG091,2025-05-19,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Catanauan, Quezon","10.311065,123.731721","Catanauan, Quezon","13.59167, 122.32500",Yes,7.44,Exceeded,Awaiting Pickup
+2025-05-23 11:07:58,PKG092,2025-05-18,2025-05-27,"Batangas City, Batangas","13.750, 121.050","Lagonglong, Misamis Oriental","13.741756,121.062022","Lagonglong, Misamis Oriental","8.800, 124.783",No,20.77,N/A,Awaiting Pickup
+2025-05-23 11:17:58,PKG093,2025-05-19,2025-05-26,"Cabuyao, Laguna","14.27833, 121.12472","Magsaysay, Palawan","10.867,121.05","Magsaysay, Palawan","10.867, 121.050",No,22.07,N/A,Awaiting Pickup
+2025-05-23 12:05:58,PKG094,2025-05-19,2025-05-24,"Batangas City, Batangas","13.750, 121.050","Floridablanca, Pampanga","13.767117,121.050505","Floridablanca, Pampanga","14.933, 120.500",Yes,4.18,Normal,Awaiting Pickup
+2025-05-23 12:24:58,PKG095,2025-05-20,2025-05-28,"Cebu City, Cebu","10.32, 123.75","Tagaytay City, Cavite","14.100, 120.933","Tagaytay City, Cavite","14.100, 120.933",No,15.14,N/A,Delivered
+2025-05-23 12:43:58,PKG096,2025-05-19,2025-05-26,"Iloilo City, Iloilo","11, 122.67","Hernani, Eastern Samar","11.333, 125.583","Hernani, Eastern Samar","11.333, 125.583",Yes,3.73,Normal,Delivered
+2025-05-23 13:21:58,PKG097,2025-05-18,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Santo Domingo, Albay","13.235,123.77694","Santo Domingo, Albay","13.23500, 123.77694",Yes,11.73,Exceeded,Awaiting Pickup
+2025-05-23 13:32:58,PKG098,2025-05-20,2025-05-25,"Batangas City, Batangas","13.750, 121.050","Gregorio Del Pilar, Ilocos Sur","17.133, 120.617","Gregorio Del Pilar, Ilocos Sur","17.133, 120.617",Yes,2.39,Normal,Delivered
+2025-05-23 13:36:58,PKG099,2025-05-19,2025-05-25,"Cebu City, Cebu","10.32, 123.75","Poona Bayabao, Lanao del Sur","7.850, 124.350","Poona Bayabao, Lanao del Sur","7.850, 124.350",Yes,10.0,Exceeded,Delivered
+2025-05-23 14:02:58,PKG100,2025-05-19,2025-05-26,"Cabuyao, Laguna","14.27833, 121.12472","Monreal, Masbate","14.294403,121.142829","Monreal, Masbate","12.633, 123.667",No,11.52,N/A,Awaiting Pickup
