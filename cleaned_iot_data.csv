@@ -1,0 +1,101 @@
+timestamp,package_id,order_date,delivery_date,origin,current_location,delivery_location,temperature,temperature_celsius,perishable,temperature_issue,status
+2025-06-06 05:11:41,PKG096,2025-05-08,2025-05-08,"Malabon, Metro Manila","Manila, Metro Manila","Manila, Metro Manila",4.93°C,4.93,Yes,Normal,Delivered
+2025-06-06 05:11:42,PKG090,2025-05-08,2025-05-15,"Tarlac City, Tarlac","Tarlac City, Tarlac","Laoag, Ilocos Norte",21.48°C,21.48,No,Not Applicable,To Ship
+2025-06-06 05:11:43,PKG036,2025-05-03,2025-05-12,"Iligan, Lanao del Norte","Libungan, Cotabato","General Santos, South Cotabato",2.38°C,2.38,Yes,Normal,In Transit
+2025-06-06 05:11:44,PKG027,2025-05-03,2025-05-16,"Mandaluyong, Metro Manila","Cadiz, Negros Occidental","Panabo, Davao del Norte",3.78°C,3.78,Yes,Normal,In Transit
+2025-06-06 05:11:45,PKG022,2025-05-02,2025-05-10,"Baguio, Benguet","Burdeos, Quezon","Naga, Camarines Sur",10.53°C,10.53,No,Not Applicable,In Transit
+2025-06-06 05:11:46,PKG019,2025-05-02,2025-05-11,"Biñan, Laguna","Plaridel, Bulacan","Tarlac City, Tarlac",17.32°C,17.32,No,Not Applicable,In Transit
+2025-06-06 05:11:47,PKG054,2025-05-05,2025-05-07,"Lapu-Lapu, Cebu","Danao, Cebu","Danao, Cebu",27.62°C,27.62,No,Not Applicable,Delivered
+2025-06-06 05:11:48,PKG006,2025-05-01,2025-05-11,"Taguig, Metro Manila","Cagayancillo, Palawan","Isabela, Basilan",11.45°C,11.45,No,Not Applicable,In Transit
+2025-06-06 05:11:49,PKG001,2025-05-01,2025-05-03,"San Jose del Monte, Bulacan","Pasig, Metro Manila","Pasig, Metro Manila",19.87°C,19.87,No,Not Applicable,Delivered
+2025-06-06 05:11:50,PKG072,2025-05-06,2025-05-08,"Cabuyao, Laguna","Marikina, Metro Manila","Marikina, Metro Manila",25.24°C,25.24,No,Not Applicable,Delivered
+2025-06-06 05:11:51,PKG041,2025-05-04,2025-05-17,"Cabanatuan, Nueva Ecija","Pagbilao, Quezon","Sagay, Negros Occidental",9.97°C,9.97,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:11:52,PKG076,2025-05-07,2025-05-19,"Puerto Princesa, Palawan","Puerto Princesa, Palawan","Panabo, Davao del Norte",6.28°C,6.28,Yes,Normal,To Ship
+2025-06-06 05:11:53,PKG066,2025-05-06,2025-05-17,"Pasay, Metro Manila","Dumarao, Capiz","Iligan, Lanao del Norte",8.01°C,8.01,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:11:54,PKG063,2025-05-06,2025-05-13,"Pasig, Metro Manila","Pasacao, Camarines Sur","Legazpi, Albay",11.42°C,11.42,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:11:55,PKG075,2025-05-06,2025-05-13,"Butuan, Agusan del Norte","Palompon, Leyte","Masbate City, Masbate",28.06°C,28.06,No,Not Applicable,In Transit
+2025-06-06 05:11:56,PKG018,2025-05-02,2025-05-14,"Malabon, Metro Manila","Ajuy, Iloilo","Cagayan de Oro, Misamis Oriental",26.71°C,26.71,No,Not Applicable,In Transit
+2025-06-06 05:11:57,PKG094,2025-05-08,2025-05-14,"General Santos, South Cotabato","General Santos, South Cotabato","Bayugan, Agusan del Sur",12.97°C,12.97,No,Not Applicable,To Ship
+2025-06-06 05:11:58,PKG032,2025-05-03,2025-05-15,"Lapu-Lapu, Cebu","Concepcion, Romblon","Trece Martires, Cavite",4.6°C,4.6,Yes,Normal,In Transit
+2025-06-06 05:11:59,PKG016,2025-05-02,2025-05-04,"Bacolod, Negros Occidental","Guihulngan, Negros Oriental","Guihulngan, Negros Oriental",20.43°C,20.43,No,Not Applicable,Delivered
+2025-06-06 05:12:01,PKG055,2025-05-05,2025-05-07,"Manila, Metro Manila","Malolos, Bulacan","Malolos, Bulacan",18.86°C,18.86,No,Not Applicable,Delivered
+2025-06-06 05:12:02,PKG050,2025-05-04,2025-05-15,"Lapu-Lapu, Cebu","Roxas, Capiz","Tanauan, Batangas",2.43°C,2.43,Yes,Normal,In Transit
+2025-06-06 05:12:03,PKG100,2025-05-09,2025-05-09,"San Jose del Monte, Bulacan","San Jose del Monte, Bulacan","Balanga, Bataan",9.76°C,9.76,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:12:04,PKG067,2025-05-06,2025-05-06,"Biñan, Laguna","Batangas City, Batangas","Batangas City, Batangas",15.58°C,15.58,No,Not Applicable,Delivered
+2025-06-06 05:12:05,PKG058,2025-05-05,2025-05-07,"San Pedro, Laguna","Mandaluyong, Metro Manila","Mandaluyong, Metro Manila",27.49°C,27.49,No,Not Applicable,Delivered
+2025-06-06 05:12:06,PKG048,2025-05-04,2025-05-15,"Santa Rosa, Laguna","Roxas, Capiz","Toledo, Cebu",5.78°C,5.78,Yes,Normal,In Transit
+2025-06-06 05:12:07,PKG095,2025-05-08,2025-05-20,"Muntinlupa, Metro Manila","Muntinlupa, Metro Manila","Dipolog, Zamboanga del Norte",18.01°C,18.01,No,Not Applicable,To Ship
+2025-06-06 05:12:08,PKG039,2025-05-04,2025-05-17,"Butuan, Agusan del Norte","Catmon, Cebu","Biñan, Laguna",25.67°C,25.67,No,Not Applicable,In Transit
+2025-06-06 05:12:09,PKG077,2025-05-07,2025-05-19,"San Jose del Monte, Bulacan","San Jose del Monte, Bulacan","Iligan, Lanao del Norte",25.53°C,25.53,No,Not Applicable,To Ship
+2025-06-06 05:12:10,PKG038,2025-05-03,2025-05-15,"Pasig, Metro Manila","Magdiwang, Romblon","Danao, Cebu",25.09°C,25.09,No,Not Applicable,In Transit
+2025-06-06 05:12:11,PKG062,2025-05-05,2025-05-16,"Batangas City, Batangas","Dumarao, Capiz","Cagayan de Oro, Misamis Oriental",3.29°C,3.29,Yes,Normal,In Transit
+2025-06-06 05:12:12,PKG028,2025-05-03,2025-05-03,"Lipa, Batangas","Trece Martires, Cavite","Trece Martires, Cavite",24.41°C,24.41,No,Not Applicable,Delivered
+2025-06-06 05:12:13,PKG046,2025-05-04,2025-05-13,"Lipa, Batangas","Del Gallego, Camarines Sur","Naga, Camarines Sur",12.03°C,12.03,No,Not Applicable,In Transit
+2025-06-06 05:12:14,PKG002,2025-05-01,2025-05-13,"Zamboanga City, Zamboanga del Sur","Gutalac, Zamboanga del Norte","Puerto Princesa, Palawan",10.35°C,10.35,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:15,PKG086,2025-05-07,2025-05-18,"Taguig, Metro Manila","Taguig, Metro Manila","Baybay, Leyte",18.04°C,18.04,No,Not Applicable,To Ship
+2025-06-06 05:12:16,PKG020,2025-05-02,2025-05-10,"San Fernando, Pampanga","Las Piñas, Metro Manila","Calamba, Laguna",20.95°C,20.95,No,Not Applicable,In Transit
+2025-06-06 05:12:17,PKG065,2025-05-06,2025-05-07,"Quezon City, Metro Manila","Batangas City, Batangas","Batangas City, Batangas",4.42°C,4.42,Yes,Normal,Delivered
+2025-06-06 05:12:18,PKG079,2025-05-07,2025-05-15,"General Santos, South Cotabato","General Santos, South Cotabato","Tagbilaran, Bohol",12.95°C,12.95,No,Not Applicable,To Ship
+2025-06-06 05:12:19,PKG042,2025-05-04,2025-05-10,"Tarlac City, Tarlac","General Nakar, Quezon","Iriga, Camarines Sur",9.38°C,9.38,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:20,PKG080,2025-05-07,2025-05-17,"Biñan, Laguna","Biñan, Laguna","Carcar, Cebu",23.19°C,23.19,No,Not Applicable,To Ship
+2025-06-06 05:12:21,PKG069,2025-05-06,2025-05-12,"Mandaue, Cebu","Maasin, Southern Leyte","Surigao City, Surigao del Norte",17.79°C,17.79,No,Not Applicable,In Transit
+2025-06-06 05:12:22,PKG089,2025-05-08,2025-05-15,"Biñan, Laguna","Biñan, Laguna","Cadiz, Negros Occidental",10.68°C,10.68,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:12:24,PKG071,2025-05-06,2025-05-17,"Davao City, Davao del Sur","Pinamungajan, Cebu","Parañaque, Metro Manila",11.02°C,11.02,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:25,PKG097,2025-05-08,2025-05-17,"Santa Rosa, Laguna","Santa Rosa, Laguna","Bago, Negros Occidental",8.55°C,8.55,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:12:26,PKG013,2025-05-01,2025-05-09,"Parañaque, Metro Manila","General Tinio, Nueva Ecija","Santiago, Isabela",9.4°C,9.4,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:27,PKG099,2025-05-08,2025-05-15,"Cagayan de Oro, Misamis Oriental","Cagayan de Oro, Misamis Oriental","Baybay, Leyte",7.79°C,7.79,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:12:28,PKG043,2025-05-04,2025-05-17,"Lipa, Batangas","Cawayan, Masbate","Baybay, Leyte",6.86°C,6.86,Yes,Normal,In Transit
+2025-06-06 05:12:29,PKG082,2025-05-07,2025-05-18,"Cotabato City, Maguindanao del Norte","Cotabato City, Maguindanao del Norte","San Fernando, Pampanga",10.53°C,10.53,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:12:30,PKG021,2025-05-02,2025-05-11,"Quezon City, Metro Manila","Gasan, Marinduque","Talisay, Negros Occidental",4.67°C,4.67,Yes,Normal,In Transit
+2025-06-06 05:12:31,PKG074,2025-05-06,2025-05-18,"Mandaue, Cebu","Roxas, Capiz","Pasay, Metro Manila",3.97°C,3.97,Yes,Normal,In Transit
+2025-06-06 05:12:32,PKG015,2025-05-02,2025-05-12,"Biñan, Laguna","San Fernando, Romblon","Talisay, Cebu",4.58°C,4.58,Yes,Normal,In Transit
+2025-06-06 05:12:33,PKG023,2025-05-02,2025-05-12,"Lapu-Lapu, Cebu","Romblon, Romblon","Cabuyao, Laguna",11.37°C,11.37,No,Not Applicable,In Transit
+2025-06-06 05:12:34,PKG061,2025-05-05,2025-05-14,"Cabanatuan, Nueva Ecija","Pasig, Metro Manila","Tanauan, Batangas",4.2°C,4.2,Yes,Normal,In Transit
+2025-06-06 05:12:35,PKG045,2025-05-04,2025-05-10,"Iligan, Lanao del Norte","Iligan, Lanao del Norte","Ormoc, Leyte",10.97°C,10.97,Yes,Temp Alert >7°C,Cancelled
+2025-06-06 05:12:36,PKG017,2025-05-02,2025-05-13,"Caloocan, Metro Manila","San Fernando, Romblon","Mandaue, Cebu",8.87°C,8.87,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:37,PKG037,2025-05-03,2025-05-14,"San Jose del Monte, Bulacan","Romblon, Romblon","Sagay, Negros Occidental",10.71°C,10.71,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:38,PKG088,2025-05-08,2025-05-08,"Bacoor, Cavite","Quezon City, Metro Manila","Quezon City, Metro Manila",19.21°C,19.21,No,Not Applicable,Delivered
+2025-06-06 05:12:39,PKG025,2025-05-02,2025-05-02,"Cabanatuan, Nueva Ecija","Quezon City, Metro Manila","Quezon City, Metro Manila",26.39°C,26.39,No,Not Applicable,Delivered
+2025-06-06 05:12:40,PKG029,2025-05-03,2025-05-11,"Lipa, Batangas","Muntinlupa, Metro Manila","Malolos, Bulacan",11.11°C,11.11,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:12:41,PKG012,2025-05-01,2025-05-01,"Taguig, Metro Manila","Lucena, Quezon","Lucena, Quezon",24.11°C,24.11,No,Not Applicable,Delivered
+2025-06-06 05:12:42,PKG004,2025-05-01,2025-05-12,"Cebu City, Cebu","San Pascual, Masbate","Ilagan, Isabela",3.77°C,3.77,Yes,Normal,In Transit
+2025-06-06 05:12:43,PKG026,2025-05-03,2025-05-14,"Calamba, Laguna","Malay, Aklan","Bayawan, Negros Oriental",2.1°C,2.1,Yes,Normal,In Transit
+2025-06-06 05:12:44,PKG053,2025-05-05,2025-05-17,"Iloilo City, Iloilo","Roxas, Oriental Mindoro","San Carlos, Pangasinan",15.5°C,15.5,No,Not Applicable,In Transit
+2025-06-06 05:12:45,PKG057,2025-05-05,2025-05-18,"Las Piñas, Metro Manila","Madridejos, Cebu","Bayugan, Agusan del Sur",15.75°C,15.75,No,Not Applicable,In Transit
+2025-06-06 05:12:46,PKG003,2025-05-01,2025-05-11,"San Fernando, Pampanga","Romblon, Romblon","Toledo, Cebu",5.74°C,5.74,Yes,Normal,In Transit
+2025-06-06 05:12:48,PKG008,2025-05-01,2025-05-07,"General Trias, Cavite","Talisay, Negros Occidental","Talisay, Negros Occidental",12.76°C,12.76,No,Not Applicable,Delivered
+2025-06-06 05:12:49,PKG033,2025-05-03,2025-05-03,"Baguio, Benguet","Dagupan, Pangasinan","Dagupan, Pangasinan",22.57°C,22.57,No,Not Applicable,Delivered
+2025-06-06 05:12:50,PKG031,2025-05-03,2025-05-14,"Muntinlupa, Metro Manila","President Roxas, Capiz","Valencia, Bukidnon",29.02°C,29.02,No,Not Applicable,In Transit
+2025-06-06 05:12:51,PKG068,2025-05-06,2025-05-14,"Cabuyao, Laguna","San Jose del Monte, Bulacan","Gapan, Nueva Ecija",7.55°C,7.55,Yes,Temp Alert >7°C,Delayed
+2025-06-06 05:12:52,PKG011,2025-05-01,2025-05-14,"Mandaluyong, Metro Manila","Bilar, Bohol","Panabo, Davao del Norte",7.0°C,7.0,Yes,Normal,In Transit
+2025-06-06 05:12:53,PKG010,2025-05-01,2025-05-10,"Manila, Metro Manila","San Nicolas, Pangasinan","Laoag, Ilocos Norte",20.26°C,20.26,No,Not Applicable,In Transit
+2025-06-06 05:12:54,PKG056,2025-05-05,2025-05-13,"San Fernando, Pampanga","Rosales, Pangasinan","Baguio, Benguet",24.28°C,24.28,No,Not Applicable,In Transit
+2025-06-06 05:12:55,PKG087,2025-05-07,2025-05-13,"Cagayan de Oro, Misamis Oriental","Cagayan de Oro, Misamis Oriental","Koronadal, South Cotabato",2.82°C,2.82,Yes,Normal,To Ship
+2025-06-06 05:12:56,PKG034,2025-05-03,2025-05-14,"Manila, Metro Manila","Roxas, Capiz","Carcar, Cebu",4.9°C,4.9,Yes,Normal,In Transit
+2025-06-06 05:12:57,PKG059,2025-05-05,2025-05-16,"San Pedro, Laguna","San Fernando, Romblon","Gingoog, Misamis Oriental",13.42°C,13.42,No,Not Applicable,In Transit
+2025-06-06 05:12:58,PKG081,2025-05-07,2025-05-07,"Biñan, Laguna","Muntinlupa, Metro Manila","Muntinlupa, Metro Manila",17.96°C,17.96,No,Not Applicable,Delivered
+2025-06-06 05:12:59,PKG052,2025-05-05,2025-05-18,"Cebu City, Cebu","San Fernando, Romblon","Pasay, Metro Manila",11.55°C,11.55,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:00,PKG073,2025-05-06,2025-05-17,"San Jose del Monte, Bulacan","San Fernando, Romblon","Lapu-Lapu, Cebu",8.48°C,8.48,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:01,PKG084,2025-05-07,2025-05-20,"Taguig, Metro Manila","Taguig, Metro Manila","Iligan, Lanao del Norte",11.27°C,11.27,No,Not Applicable,To Ship
+2025-06-06 05:13:02,PKG044,2025-05-04,2025-05-12,"Baguio, Benguet","Bagabag, Nueva Vizcaya","Santiago, Isabela",11.09°C,11.09,No,Not Applicable,In Transit
+2025-06-06 05:13:03,PKG064,2025-05-06,2025-05-15,"General Santos, South Cotabato","Malita, Davao Occidental","Mati, Davao Oriental",10.16°C,10.16,No,Not Applicable,In Transit
+2025-06-06 05:13:04,PKG051,2025-05-05,2025-05-14,"San Jose del Monte, Bulacan","Quezon, Quezon","Calbayog, Samar",10.22°C,10.22,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:05,PKG093,2025-05-08,2025-05-17,"Cagayan de Oro, Misamis Oriental","Cagayan de Oro, Misamis Oriental","Digos, Davao del Sur",23.61°C,23.61,No,Not Applicable,To Ship
+2025-06-06 05:13:06,PKG060,2025-05-05,2025-05-21,"General Santos, South Cotabato","Dumaguete, Negros Oriental","Olongapo, Zambales",18.56°C,18.56,No,Not Applicable,In Transit
+2025-06-06 05:13:07,PKG049,2025-05-04,2025-05-10,"Imus, Cavite","Mexico, Pampanga","Tarlac City, Tarlac",10.8°C,10.8,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:08,PKG005,2025-05-01,2025-05-14,"Puerto Princesa, Palawan","Busuanga, Palawan","Angeles, Pampanga",24.49°C,24.49,No,Not Applicable,In Transit
+2025-06-06 05:13:09,PKG091,2025-05-08,2025-05-17,"Baguio, Benguet","Baguio, Benguet","Iriga, Camarines Sur",11.17°C,11.17,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:13:10,PKG083,2025-05-07,2025-05-13,"Davao City, Davao del Sur","Davao City, Davao del Sur","Ormoc, Leyte",22.61°C,22.61,No,Not Applicable,To Ship
+2025-06-06 05:13:11,PKG030,2025-05-03,2025-05-12,"Angeles, Pampanga","Tarlac City, Tarlac","San Carlos, Pangasinan",2.84°C,2.84,Yes,Normal,In Transit
+2025-06-06 05:13:13,PKG047,2025-05-04,2025-05-11,"Makati, Metro Manila","Gapan, Nueva Ecija","San Jose, Nueva Ecija",10.52°C,10.52,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:14,PKG009,2025-05-01,2025-05-01,"Biñan, Laguna","Mandaluyong, Metro Manila","Mandaluyong, Metro Manila",7.16°C,7.16,Yes,Temp Alert >7°C,Delivered
+2025-06-06 05:13:15,PKG078,2025-05-07,2025-05-09,"Dasmariñas, Cavite","Los Baños, Laguna","Tayabas, Quezon",10.77°C,10.77,No,Not Applicable,In Transit
+2025-06-06 05:13:16,PKG070,2025-05-06,2025-05-13,"Mandaue, Cebu","Poro, Cebu","Baybay, Leyte",6.69°C,6.69,Yes,Normal,In Transit
+2025-06-06 05:13:17,PKG092,2025-05-08,2025-05-21,"Puerto Princesa, Palawan","Puerto Princesa, Palawan","Balanga, Bataan",21.0°C,21.0,No,Not Applicable,To Ship
+2025-06-06 05:13:18,PKG024,2025-05-02,2025-05-02,"San Fernando, Pampanga","Malabon, Metro Manila","Malabon, Metro Manila",26.59°C,26.59,No,Not Applicable,Delivered
+2025-06-06 05:13:19,PKG040,2025-05-04,2025-05-06,"Davao City, Davao del Sur","Digos, Davao del Sur","Digos, Davao del Sur",5.08°C,5.08,Yes,Normal,Delivered
+2025-06-06 05:13:20,PKG007,2025-05-01,2025-05-14,"Quezon City, Metro Manila","San Andres, Romblon","Himamaylan, Negros Occidental",11.49°C,11.49,Yes,Temp Alert >7°C,In Transit
+2025-06-06 05:13:21,PKG014,2025-05-02,2025-05-15,"Pasay, Metro Manila","Catarman, Camiguin","Panabo, Davao del Norte",21.36°C,21.36,No,Not Applicable,Delayed
+2025-06-06 05:13:22,PKG035,2025-05-03,2025-05-04,"Pasig, Metro Manila","Angeles, Pampanga","Angeles, Pampanga",3.26°C,3.26,Yes,Normal,Delivered
+2025-06-06 05:13:23,PKG085,2025-05-07,2025-05-13,"Butuan, Agusan del Norte","Butuan, Agusan del Norte","Davao City, Davao del Sur",11.73°C,11.73,Yes,Temp Alert >7°C,To Ship
+2025-06-06 05:13:24,PKG098,2025-05-08,2025-05-15,"Iligan, Lanao del Norte","Iligan, Lanao del Norte","Davao City, Davao del Sur",24.03°C,24.03,No,Not Applicable,To Ship
